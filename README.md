@@ -52,7 +52,7 @@ curl https://api.telegram.org/bot$TELEGRAM_TOKEN/getUpdates | jq .result[0].mess
 cd earn
 node earn.mjs
 ```
-### License
+## License
 
 MIT License
 
