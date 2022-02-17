@@ -1,0 +1,12 @@
+{
+  "name": "staking",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "axios": "latest",
+    "@binance/connector": "latest",
+    "big.js": "latest",
+    "grammy": "latest",
+    "node-schedule": "latest"
+  }
+}
