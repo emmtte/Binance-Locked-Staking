@@ -1,6 +1,10 @@
 # Binance-Locked-Staking
+
 Receive a daily telegram notification of what is possible to stake in Binance's locked staking based on your spot balance
-![img](screenshot.jpg)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/emmtte/Binance-Locked-Staking/main/screenshot.jpg">
+</p>
 
 ## Installation
 ### Prerequisites
